@@ -1,21 +1,4 @@
-I am applying for a [] position at []. I have graduated from St. Francis Xavier University with a Bachelor of Science degree majoring on Computer Science. After 
-passing from University I hold a job as an Integration Specialist at a company called MacKay Meters where I worked for 2 months and there I was involved in 
-maintaining and engineering databases using PostgreSQL development, designing and documenting integration solutions in accordance with best practices, providing 
-technical assistance to troubleshoot and resolve integration errors and supporting development on resolving system defects, acting as liaison and developing 
-solutions. After that I worked as an Application Consultant at IBM for 3 years where I was involved in collaborating with the development team in managing customer 
-facing applications, developing skills in performing project tasks by using Agile Methodology, following the best practices of software engineering and performing 
-proper quality management at all work, gaining expertise at designing and developing cross browser compatible websites, adding functionalities and fixing defects 
-in existing front-end services to achieve perfection, working with the project team on tracking bugs in the application by using Jira tracking tool, performed code 
-review and tracking changes by using Git, using React JS to develop and engineer the front-end UI of clients' application and also using the Python language to 
-develop and maintain the back-end system of the clients' application. Currently, I am working as an Admitting Clerk at Nova Scotia Health Authority where I am 
-involved in coordinating and managing the registration processes, ensuring a seamless and efficient experience for patients and clients visiting the hospital, 
-collaborating with cross-functional teams to address registration-related issues and improve overall participant satisfaction, maintaining accurate and up-to-date 
-records of all registrations, ensuring data integrity and accessibility, providing exceptional customer service, addressing inquiries and resolving issues promptly 
-and professionally. Very recently, I was working as an Admitting Clerk at the Nova Scotia Health Authority where I was involved in coordinating and managing the 
-registration process, ensured a seamless and efficient experience for participants, implemented streamlined registration procedures, reduced processing time by 
-20%, collaborated with cross-functional teams to address registration-related issues and improve overall participant satisfaction, maintained accurate and up-to-
-date records of all registrations, ensured data  integrity and accessibility and provided exceptional customer service, addressing inquiries and resolving issues 
-promptly and professionally.  
+I am applying for a [] position at []. I have graduated from St. Francis Xavier University with a Bachelor of Science degree majoring on Computer Science. After passing from University I hold a job as an Integration Specialist at a company called MacKay Meters where I worked for 2 months and there I was involved in maintaining and engineering databases using PostgreSQL development, designing and documenting integration solutions in accordance with best practices, providing technical assistance to troubleshoot and resolve integration errors and supporting development on resolving system defects, acting as liaison and developing solutions. After that I worked as an Application Consultant at IBM for 3 years where I was involved in collaborating with the development team in managing customer facing applications, developing skills in performing project tasks by using Agile Methodology, following the best practices of software engineering and performing proper quality management at all work, gaining expertise at designing and developing cross browser compatible websites, adding functionalities and fixing defects in existing front-end services to achieve perfection, working with the project team on tracking bugs in the application by using Jira tracking tool, performed code review and tracking changes by using Git, using React JS to develop and engineer the front-end UI of clients' application and also using the Python language to develop and maintain the back-end system of the clients' application. Very recently, I was working as an Admitting Clerk at the Nova Scotia Health Authority where I was involved in coordinating and managing the registration process, ensured a seamless and efficient experience for participants, implemented streamlined registration procedures, reduced processing time by 20%, collaborated with cross-functional teams to address registration-related issues and improve overall participant satisfaction, maintained accurate and up-to-date records of all registrations, ensured data  integrity and accessibility and provided exceptional customer service, addressing inquiries and resolving issues promptly and professionally.  
 
 Now, the job description of the job that I'm applying to is as follows:
 
@@ -24,5 +7,4 @@ Now, the job description of the job that I'm applying to is as follows:
 
 
 
-Now, taking all these into consideration can you write up a professional, polite and organized cover letter for me in 400 words and including a subject line to 
-apply at this job?
+Now, taking all these into consideration can you write up a professional, polite and organized cover letter for me in 400 words and including a subject line to apply at this job?
