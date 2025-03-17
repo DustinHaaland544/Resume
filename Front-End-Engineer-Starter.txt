@@ -4,7 +4,7 @@ maintaining and engineering databases using PostgreSQL development, designing an
 technical assistance to troubleshoot and resolve integration errors and supporting development on resolving system defects, acting as liaison and developing 
 solutions. After that I worked as a Front-End Engineer at IBM for 3 years where I was involved in developing and maintaining responsive web applications using 
 JavaScript, React and Redux, Optimizing front-end performance by implementing lazy loading, code splitting, and efficient state management with React, 
-collaborating with UX/UI designers to translate wireframes and mockups intopixel-perfect, interactive web interfaces, integrating RESTful APIs and third-party 
+collaborating with UX/UI designers to translate wireframes and mockups into pixel-perfect, interactive web interfaces, integrating RESTful APIs and third-party 
 services to enhance application functionality and data flow, utilizing Git, Jira, and Agile methodologies for efficient development, version control, and team 
 collaboration, working with the project team on tracking bugs in the application by using Jira tracking tool, and conducted code reviews, mentored junior developers, 
 and promoted best practices in front-end development. Very recently, I was working as an Admitting Clerk at the Nova Scotia Health Authority where I was involved in 
